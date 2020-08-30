@@ -36,6 +36,7 @@ function App() {
         .then((response) => response.json())
         .then((data) => {
           console.log(data)
+          console.log("Testing git")
           const countries = data.map((country) => (
             {
               name: country.country,
