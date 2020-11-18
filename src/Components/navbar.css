@@ -1,13 +1,12 @@
 div {
     text-align: left;
-
-    color: black;
+     color: black;
 }
 .Nav {
     background-color: white; 
     overflow: hidden;
     border-bottom: 1px solid skyblue;
-    width: 112%;
+    width: 200%;
 }
 .flex-container {
     display: inline;
@@ -46,11 +45,4 @@ body {
     .App{
         flex-direction: column;
     }
-}
-.app_left{
-    flex: 0.7;
-}
-.app_right{
-    flex: 0.1;
-    justify-content: space-between;
 }

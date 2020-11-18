@@ -37,3 +37,12 @@
     transform: rotate(360deg);
   }
 }
+.app_left{
+ 
+  flex: 0.7;
+}
+.app_right{
+ 
+  flex: 0.1;
+  justify-content: space-between
+}
