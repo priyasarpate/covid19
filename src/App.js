@@ -79,8 +79,8 @@ function App() {
     <div className="App">
       <div className="app_left">
       <div className="nav-conatainer">
-          <NavBar />
-          {/* <h1>Covid 19 tracker</h1> */}
+          {/* <NavBar /> */}
+          <h1>Covid 19 tracker</h1>
         </div>
         <div className="drop-conatiner">
           <FormControl className="app-dropdown">
